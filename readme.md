@@ -13,6 +13,8 @@
 
 7. you can unlink by 'npm unlink' cmd
 
+#tests
+8. to run unit tests -> 'npm test'
 
 ## Packages Used (npm)
 
