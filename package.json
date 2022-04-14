@@ -16,7 +16,7 @@
     "mocha": "^6.2.0"
   },
   "dependencies": {
-    "async": "^3.1.0",
+    "async": "^3.2.2",
     "node-html-parser": "^1.1.16",
     "restler": "^3.4.0",
     "yargs": "^13.3.0"
